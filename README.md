@@ -14,9 +14,13 @@ smart home system, internet of things, cloud computing and rule-based event proc
 1. Smart Home promises the potentials for the user to measure home conditions (. e.g., humidity, temperature, luminosity, etc.),manipulate home (heating, ventilation and air conditioning) appliances and control their status with minimum user’s intervention . Researchers and practitioners have made a great deal of efforts in facilitating the concept.
 2. The aforementioned research efforts focus on the Smart home features of context-awareness, energy efficiency, natural interaction, and user activity recognition.
 
-Project Image
+Project Output Image
 
 ![Project Image](https://user-images.githubusercontent.com/70066441/205474050-095cc2b1-b6d6-4683-9fe8-6db428a49b98.jpg)
+
+Project Input Image
+
+![input](https://user-images.githubusercontent.com/70066441/205474390-d4d0c0c3-3b8a-448e-bf40-debcc9cf0e5c.jpg)
 
 source code
 
